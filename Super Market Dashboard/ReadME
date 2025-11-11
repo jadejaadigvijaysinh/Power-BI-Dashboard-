@@ -1,1 +1,82 @@
+📘 Overview
+This dashboard analyzes sales and performance for a Superstore, providing key insights into revenue, profit, product categories, and regional trends. The report tracks performance across 4 years (2014-2017), helping to visualize financial health, identify top-performing products, and understand customer ordering patterns.
 
+
+
+🎯 Objectives
+(Inferred from dashboard pages)
+
+To analyze financial performance by tracking revenue, profit, and orders over time.
+
+
+To identify top-performing categories, sub-categories, and individual products.
+
+To assess performance across different regions, states, and cities.
+
+To understand customer behavior by analyzing segments and shipping preferences.
+
+
+🧩 Dashboard Pages & Insights
+1️⃣ Sales Overview Page
+
+KPIs Displayed: Total Orders (5009) , Total Revenue ($11.49M) , Total Unit Sold (38K) , Total Profit ($286.4K) , Total Customers (793) , Total Products (1862) , No. of Category (3) , No. of Region (4) , No. of Segment (3).
+
+
+
+
+
+
+Profit by Segment (Pie Chart): The Corporate segment is the most profitable, bringing in $134.12K (46.83%) of total profit.
+
+
+Revenue by Top 7 States (Bar Chart): California is the top-performing state by far, generating over $2M in revenue.
+
+
+Units Sold by Category (Bar Chart): Technology is the best-selling category, followed closely by Furniture.
+
+2️⃣ Regional & Sales Insights Page
+
+Filters: Allows filtering all charts by Category (Furniture, Office Supplies, or Technology) and by Year (2014-2017).
+
+
+Revenue and Profit by Year (Area Chart): The business is showing excellent and consistent growth. Both revenue and profit have gone up every single year.
+
+
+Profit by State (Tree map): California and New York are the "profit powerhouses" and are significantly more profitable than any other state.
+
+
+Unit sold by Region (Bar Chart): The West region is leading in sales volume, having sold more than 10,000 items.
+
+
+Revenue by Category (Donut Chart): Technology products are the main source of income, bringing in $4.08M (35.52%).
+
+3️⃣ Analyzing Our Top Products and Categories Page
+
+Unit Sold by Top 10 Sub-Category (Bar Chart): Binders are the most frequently sold item, indicating they are a high-volume, staple product.
+
+
+Profit by Category (Pie Chart): "Technology" and "Office Supplies" are the engines of profitability, each contributing over 42% of the total profit. "Furniture" makes up less than 15% of profit.
+
+
+
+Revenue by Top 10 Sub-Category (Bar Chart): "Chairs" and "Phones" are the top two revenue generators, each bringing in over $1.5 million.
+
+
+Profit by Top 5 Product and Category (Bar Chart): The Canon imageCLASS printer is the single most profitable product for the entire company.
+
+4️⃣ Analyzing Our Order Patterns Page
+
+Order by Year (Line Chart): The company has a growing customer base, as the number of orders has increased steadily every year.
+
+
+Order by Region (Stacked Bar Chart): The West is the largest market by order volume. Standard Class is the most popular shipping method in every single region.
+
+
+
+Order by Year and Category (Stacked Bar Chart): Office Supplies is the category with the highest number of orders and is also showing the most dramatic growth.
+
+
+Order by Top 7 Sub-Category (Bar Chart): Binders and Paper are the top two sub-categories, suggesting frequent, smaller orders for essential supplies.
+
+
+Order by Top 10 State (Tree map): California is, by far, our largest market, generating more orders than any other state.
